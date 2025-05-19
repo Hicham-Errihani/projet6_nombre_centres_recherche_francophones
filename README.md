@@ -17,8 +17,8 @@
 [![Pays](https://img.shields.io/badge/PAYS-30+-lightblue?style=flat-square&logo=map&logoColor=white)]()
 [![Universités](https://img.shields.io/badge/UNIVERSITÉS-150+-9cf?style=flat-square&logo=graduation-cap&logoColor=black)]()
 </div>
-
 </div>
+
 # Projet 6 : Analyse des Centres de Recherche Francophones 🌍
 
 ## 📌 Description du Projet
