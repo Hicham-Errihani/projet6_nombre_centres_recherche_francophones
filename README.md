@@ -10,11 +10,12 @@
   
 </div>
 
-# Projet 6 : Analyse des Centres de Recherche Francophones 🌍
 
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 [![Python](https://img.shields.io/badge/Python-3.8%2B-blue)](https://www.python.org/)
 [![GitHub stars](https://img.shields.io/github/stars/Hicham-Errihani/projet6_nombre_centres_recherche_francophones?style=social)](https://github.com/Hicham-Errihani/projet6_nombre_centres_recherche_francophones/stargazers)
+
+# Projet 6 : Analyse des Centres de Recherche Francophones 🌍
 
 ## 📌 Description du Projet
 Ce projet analyse la répartition géographique et thématique des centres de recherche francophones à travers le monde. Il comprend :
