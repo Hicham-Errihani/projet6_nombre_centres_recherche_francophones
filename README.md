@@ -21,6 +21,7 @@
 [![Dernière Mise à Jour](https://img.shields.io/github/last-commit/Hicham-Errihani/projet6_nombre_centres_recherche_francophones?color=important&style=flat-square&logo=githubactions)](https://github.com/Hicham-Errihani/projet6_nombre_centres_recherche_francophones/commits/main)
 
 </div>
+
 # Projet 6 : Analyse des Centres de Recherche Francophones 🌍
 
 ## 📌 Description du Projet
