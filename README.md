@@ -1,3 +1,15 @@
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=30&duration=2000&pause=500&color=2AA7FF&center=true&vCenter=true&width=800&lines=Analyse+des+Centres+de+Recherche+Francophones;Découvrez+la+cartographie+scientifique+!;Données+ouvertes+et+analyses+avancées" alt="Titre animé" />
+</p>
+
+<div align="center">
+  
+[![Open Source](https://img.shields.io/badge/Open%20Source-🌍-brightgreen)](https://opensource.guide/)
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.XXXXXX.svg)](https://doi.org/10.5281/zenodo.XXXXXX)
+[![Visiteurs](https://komarev.com/ghpvc/?username=Hicham-Errihani&label=Visiteurs&color=blueviolet)](https://github.com/Hicham-Errihani)
+  
+</div>
+
 # Projet 6 : Analyse des Centres de Recherche Francophones 🌍
 
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
