@@ -1,24 +1,26 @@
 <div align="center">
   <img src="assets/banner.png" alt="Banner Projet Recherche" width="100%">
+</div>
 <div align="center">
 
-[![GitHub Stars](https://img.shields.io/github/stars/Hicham-Errihani/projet6_nombre_centres_recherche_francophones?style=for-the-badge&logo=github&color=yellow&labelColor=1DA1F2)](https://github.com/Hicham-Errihani/projet6_nombre_centres_recherche_francophones/stargazers)
-[![License](https://img.shields.io/badge/License-MIT-red?style=for-the-badge&logo=opensourceinitiative&logoColor=white)](LICENSE)
-[![Python](https://img.shields.io/badge/Python-3.8+-blue?style=for-the-badge&logo=python&logoColor=FFD43B)](https://python.org)
-[![DOI](https://img.shields.io/badge/DOI-10.5281%2Fzenodo.XXXXXX-purple?style=for-the-badge&logo=datacite)](https://doi.org/10.5281/zenodo.XXXXXX)
-![Pandas](https://img.shields.io/badge/Pandas-2.0.0-%23150458?style=flat-square&logo=pandas&logoColor=white)
-![NumPy](https://img.shields.io/badge/NumPy-1.24.0-%23013243?style=flat-square&logo=numpy&logoColor=white)
-![Plotly](https://img.shields.io/badge/Plotly-5.14.0-%233F4F75?style=flat-square&logo=plotly&logoColor=white)
-![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=flat-square&logo=jupyter&logoColor=white)
-[![Visitors](https://komarev.com/ghpvc/?username=Hicham-Errihani&label=VISITEURS&color=blueviolet&style=for-the-badge)](https://github.com/Hicham-Errihani)
-[![Commits](https://img.shields.io/github/commit-activity/m/Hicham-Errihani/projet6_nombre_centres_recherche_francophones?color=orange&style=flat-square&logo=git)](https://github.com/Hicham-Errihani/projet6_nombre_centres_recherche_francophones/graphs/commit-activity)
-[![Repo Size](https://img.shields.io/github/repo-size/Hicham-Errihani/projet6_nombre_centres_recherche_francophones?color=lightgrey&style=flat-square&logo=github)](https://github.com/Hicham-Errihani/projet6_nombre_centres_recherche_francophones)
-[![Francophone](https://img.shields.io/badge/LANGUE-FRANÇAIS-0052A5?style=flat-square&logo=locale&logoColor=white)](https://fr.wikipedia.org/wiki/Francophonie)
-[![Pays](https://img.shields.io/badge/PAYS-30+-lightblue?style=flat-square&logo=map&logoColor=white)]()
-[![Universités](https://img.shields.io/badge/UNIVERSITÉS-150+-9cf?style=flat-square&logo=graduation-cap&logoColor=black)]()
-</div>
-</div>
+[![Statut du Projet](https://img.shields.io/badge/STATUT-ACTIF-brightgreen?style=for-the-badge&logo=statuspal)](https://github.com/Hicham-Errihani/projet6_nombre_centres_recherche_francophones)
+[![License MIT](https://img.shields.io/badge/LICENCE-MIT-red?style=for-the-badge&logo=opensourceinitiative)](LICENSE)
+[![Version Python](https://img.shields.io/badge/PYTHON-3.8%2B-blue?style=for-the-badge&logo=python&logoColor=FFD43B)](https://python.org)
+[![Framework](https://img.shields.io/badge/FRAMEWORK-PANDAS%2FPLOTLY-orange?style=for-the-badge&logo=pandas)](https://pandas.pydata.org)
 
+[![Couverture Géographique](https://img.shields.io/badge/PAYS%20ANALYSÉS-30%2B-1DA1F2?style=flat-square&logo=map-marked)]()
+[![Centres Recensés](https://img.shields.io/badge/CENTRES-500%2B-success?style=flat-square&logo=university)](https://github.com/Hicham-Errihani/projet6_nombre_centres_recherche_francophones)
+[![Période d'Étude](https://img.shields.io/badge/PÉRIODE-2010--2023-yellowgreen?style=flat-square&logo=calendar-check)]()
+
+[![Documentation](https://img.shields.io/badge/DOCS-DISPONIBLE-9cf?style=flat-square&logo=readthedocs)](https://hicham-errihani.github.io/projet6_docs)
+[![DOI](https://img.shields.io/badge/DOI-10.5281%2Fzenodo.XXXXXX-purple?style=flat-square&logo=datacite)](https://doi.org/10.5281/zenodo.XXXXXX)
+[![Format des Données](https://img.shields.io/badge/DONNÉES-CSV%2FJSON-lightgrey?style=flat-square&logo=json)]()
+
+[![Visiteurs](https://komarev.com/ghpvc/?username=Hicham-Errihani&label=VISITEURS&color=blueviolet&style=for-the-badge)](https://github.com/Hicham-Errihani)
+[![Stars GitHub](https://img.shields.io/github/stars/Hicham-Errihani/projet6_nombre_centres_recherche_francophones?style=flat-square&logo=github&color=yellow&label=STARS)](https://github.com/Hicham-Errihani/projet6_nombre_centres_recherche_francophones/stargazers)
+[![Dernière Mise à Jour](https://img.shields.io/github/last-commit/Hicham-Errihani/projet6_nombre_centres_recherche_francophones?color=important&style=flat-square&logo=githubactions)](https://github.com/Hicham-Errihani/projet6_nombre_centres_recherche_francophones/commits/main)
+
+</div>
 # Projet 6 : Analyse des Centres de Recherche Francophones 🌍
 
 ## 📌 Description du Projet
