@@ -1,1 +1,1 @@
-# Projet6 : Nombre de centres de recherche francophones
+# Project6: Nombre de centres de recherche francophones
